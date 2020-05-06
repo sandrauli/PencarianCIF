@@ -18,4 +18,3 @@ Feature: Searc By No.Id Variation
     Examples: 
       | idnum  | result |
       | 2737377732377372 | data not found | 
-      
